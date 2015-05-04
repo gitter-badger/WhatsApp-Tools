@@ -1,5 +1,7 @@
 # WhatsApp Tools
 
+[![Join the chat at https://gitter.im/usinadeideia/WhatsApp-Tools](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/usinadeideia/WhatsApp-Tools?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 **Contact with me: me [at] mgp25.com or @_mgp25**
 
 **IMPORTANT: Be sure to use the newer code from my repo [WhatsAPI-Spanish](https://github.com/mgp25/WhatsAPI-Spanish) or WhatsAPI from Shirioko**
